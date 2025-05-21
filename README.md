@@ -14,6 +14,7 @@ Here're some of the project's best features:
 
 *   Real-time HD video and audio calling with dynamic network adaptation
 *   Background notifications for incoming and ongoing calls
+*   In-app logs
 *   Seamless one-on-one and group video calling support
 
 <h2>🛠️ Installation Steps:</h2>
