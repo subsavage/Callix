@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219976534410",
+    "project_id": "callix-e982e",
+    "storage_bucket": "callix-e982e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219976534410:android:015588632267837847e073",
+        "android_client_info": {
+          "package_name": "com.example.callix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMIG8FjT5aojw9WWjuE5gd-oU-pwX1RAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
