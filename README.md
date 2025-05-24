@@ -1,16 +1,45 @@
-# callix
+<h1 align="center" id="title">Callix</h1>
 
-A new Flutter project.
+<p align="center"><img src="https://socialify.git.ci/subsavage/Callix/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Diagonal+Stripes&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-## Getting Started
+<p id="description">A real-time video calling app developed with the Agora SDK enabling seamless and low-latency communication</p>
 
-This project is a starting point for a Flutter application.
+<p align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&amp;logo=flutter&amp;logoColor=white" alt="shields"></p>
 
-A few resources to get you started if this is your first Flutter project:
+  
+  
+<h2>🧐 Features</h2>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Here're some of the project's best features:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*   Real-time HD video and audio calling with dynamic network adaptation
+*   Background notifications for incoming and ongoing calls
+*   In-app logs
+*   Seamless one-on-one and group video calling support
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Go to settings.dart</p>
+
+<p>2. Replace this with your Agora APP_ID</p>
+
+```
+const appid = 'APP_ID';
+```
+
+<p>3. Replace this with your current temp token</p>
+
+```
+const token = 'TOKEN';
+```
+
+<p>4. Make sure that the "channel name" that you enter is the channel that you have generated the token for</p>
+
+<h2>📱 Screenshots</h2>
+
+
+| Home Page | Call Page |
+|-----------|-----------|
+| <img src="https://github.com/user-attachments/assets/b5076532-e147-4d2f-a83d-84f20145ab83" width="300"/> | <img src="https://github.com/user-attachments/assets/a0c8fe49-b042-4d3c-bf18-f2168688de9f" width="300"/> |
+
+
